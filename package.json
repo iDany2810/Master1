@@ -1,0 +1,25 @@
+{
+    "name": "ecomerce",
+    "version": "1.0.0",
+    "description": "manejo de libros",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js",
+        "async": "nodemon async.js"
+    },
+    "author": "Daniela Hernandez",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    },
+    "dependencies": {
+        "bcrypt": "^5.0.0",
+        "body-parser": "^1.19.0",
+        "bulma": "^0.9.1",
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.10.9",
+        "pug": "^3.0.0"
+    }
+}

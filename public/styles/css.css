@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+#powered {
+    margin-bottom: 10px;
+}
+
+.cambio {
+    display: none;
+}
+
+.formulario {
+    margin-bottom: 10px;
+    width: 25%;
+}
+
+.hero {
+    background-color: #28df99;
+}
+
+.container h1 {
+    color: #99f3bd;
+    ;
+}
